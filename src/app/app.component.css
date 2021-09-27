@@ -1,0 +1,13 @@
+h1{
+    color: red;
+}
+
+p{
+    color: red;
+}
+
+.peliculaContenedor{
+    border: 2px solid rgb(18, 129, 219);
+    border-radius: 5%;
+    margin-bottom: 1rem;
+}
